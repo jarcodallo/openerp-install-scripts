@@ -26,7 +26,7 @@ OE_HOME_EXT="/opt/$OE_USER/$OE_USER-server"
 OE_VERSION="8.0"
 
 #set the superadmin password
-OE_SUPERADMIN="superadminpassword"
+OE_SUPERADMIN="umadsysadmin"
 OE_CONFIG="$OE_USER-server"
 
 #--------------------------------------------------
